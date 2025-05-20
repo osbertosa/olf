@@ -1,0 +1,15 @@
+artifact_uri: /Users/osaosberto/olf/research/mlruns/842522256524330572/859ee889a22a4ee68c234b33f16c987b/artifacts
+end_time: 1745318358073
+entry_point_name: ''
+experiment_id: '842522256524330572'
+lifecycle_stage: active
+run_id: 859ee889a22a4ee68c234b33f16c987b
+run_name: nosy-moth-221
+run_uuid: 859ee889a22a4ee68c234b33f16c987b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745318353214
+status: 3
+tags: []
+user_id: osaosberto

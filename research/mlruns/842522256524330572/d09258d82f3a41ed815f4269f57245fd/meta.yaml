@@ -1,0 +1,15 @@
+artifact_uri: /Users/osaosberto/olf/research/mlruns/842522256524330572/d09258d82f3a41ed815f4269f57245fd/artifacts
+end_time: 1745852931280
+entry_point_name: ''
+experiment_id: '842522256524330572'
+lifecycle_stage: active
+run_id: d09258d82f3a41ed815f4269f57245fd
+run_name: bright-mare-221
+run_uuid: d09258d82f3a41ed815f4269f57245fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745852311910
+status: 3
+tags: []
+user_id: osaosberto

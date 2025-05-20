@@ -1,0 +1,15 @@
+artifact_uri: /Users/osaosberto/olf/research/mlruns/842522256524330572/ba251fc79b93469fb41620c25facf90d/artifacts
+end_time: 1745319238949
+entry_point_name: ''
+experiment_id: '842522256524330572'
+lifecycle_stage: active
+run_id: ba251fc79b93469fb41620c25facf90d
+run_name: righteous-fish-246
+run_uuid: ba251fc79b93469fb41620c25facf90d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745319233869
+status: 3
+tags: []
+user_id: osaosberto

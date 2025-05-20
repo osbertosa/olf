@@ -1,0 +1,15 @@
+artifact_uri: /Users/osaosberto/olf/research/mlruns/842522256524330572/ac8c4ed657d94006bb171daf9413dac8/artifacts
+end_time: 1745336995735
+entry_point_name: ''
+experiment_id: '842522256524330572'
+lifecycle_stage: active
+run_id: ac8c4ed657d94006bb171daf9413dac8
+run_name: loud-finch-524
+run_uuid: ac8c4ed657d94006bb171daf9413dac8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745336995725
+status: 4
+tags: []
+user_id: osaosberto

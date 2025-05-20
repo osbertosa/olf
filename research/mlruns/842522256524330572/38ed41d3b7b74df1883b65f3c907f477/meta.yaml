@@ -1,0 +1,15 @@
+artifact_uri: /Users/osaosberto/olf/research/mlruns/842522256524330572/38ed41d3b7b74df1883b65f3c907f477/artifacts
+end_time: 1745318332236
+entry_point_name: ''
+experiment_id: '842522256524330572'
+lifecycle_stage: active
+run_id: 38ed41d3b7b74df1883b65f3c907f477
+run_name: inquisitive-flea-878
+run_uuid: 38ed41d3b7b74df1883b65f3c907f477
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745318325646
+status: 4
+tags: []
+user_id: osaosberto

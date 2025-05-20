@@ -1,0 +1,15 @@
+artifact_uri: /Users/osaosberto/olf/research/mlruns/842522256524330572/3d716bb4a07847e1a0cbfbac10820afe/artifacts
+end_time: 1745337019142
+entry_point_name: ''
+experiment_id: '842522256524330572'
+lifecycle_stage: active
+run_id: 3d716bb4a07847e1a0cbfbac10820afe
+run_name: fortunate-fly-304
+run_uuid: 3d716bb4a07847e1a0cbfbac10820afe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745337019119
+status: 4
+tags: []
+user_id: osaosberto

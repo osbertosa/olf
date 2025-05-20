@@ -1,0 +1,15 @@
+artifact_uri: /Users/osaosberto/olf/research/mlruns/842522256524330572/3e3f8045d5ac4d64bce1c2f1de4b84f2/artifacts
+end_time: 1745318877689
+entry_point_name: ''
+experiment_id: '842522256524330572'
+lifecycle_stage: active
+run_id: 3e3f8045d5ac4d64bce1c2f1de4b84f2
+run_name: silent-skunk-103
+run_uuid: 3e3f8045d5ac4d64bce1c2f1de4b84f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745318872695
+status: 3
+tags: []
+user_id: osaosberto
