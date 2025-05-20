@@ -7,12 +7,15 @@ on:
     branches: [ main ]
 
 jobs:
+  dockerbuild:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build the Docker image
+        run: docker build . --file Dockerfile --tag workflow-test:$(date +%s)
+
   build-and-test:
     runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        python-version: [3.8, 3.9, 3.10]
-    name: Test on Python ${{ matrix.python-version }}
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
@@ -20,7 +23,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: ${{ matrix.python-version }}
+          python-version: '3.9'
 
       - name: Install dependencies
         run: |
@@ -33,7 +36,6 @@ jobs:
   build-and-publish:
     needs: build-and-test
     runs-on: ubuntu-latest
-    if: ${{ success() }}
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
